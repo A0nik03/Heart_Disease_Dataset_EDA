@@ -8,9 +8,11 @@ The analysis uses Python, along with libraries such as Pandas, Matplotlib, and S
 
 📄 Project Files
 
-1 - HeartDiseaseDataset.ipynb — Jupyter notebook with step-by-step analysis
-2 - HeartDiseaseDataset.pdf — PDF export of the notebook
-3 - README.md — this file, providing a detailed project overview
+1. HeartDiseaseDataset.ipynb — Jupyter notebook with step-by-step analysis
+
+2. HeartDiseaseDataset.pdf — PDF export of the notebook
+
+3. README.md — this file, providing a detailed project overview
 
 🧠 Summary of Insights
 
